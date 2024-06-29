@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'test-card'
           publish-profile: ${{ secrets.AZURE_WEBAPP_PUBLISH_PROFILE }}
-          package: .
+          package: release.zip
