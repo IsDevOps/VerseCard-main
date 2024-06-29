@@ -33891,3 +33891,63 @@ Seed words:
 [stacktrace]
 #0 {main}
 "} 
+[2024-06-29 19:30:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:31:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:32:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:33:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:34:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:35:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:36:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:37:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:38:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:39:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:40:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:41:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:42:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:43:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
+[2024-06-29 19:44:38] local.ERROR: Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) {"exception":"[object] (Symfony\\Component\\ErrorHandler\\Error\\FatalError(code: 0): Cannot redeclare pixelSourceCode() (previously declared in /home/oseghale/Documents/VerseCard-main/app/helpers.php:2) at /home/oseghale/Documents/VerseCard-main/app/helpers.php:2)
+[stacktrace]
+#0 {main}
+"} 
