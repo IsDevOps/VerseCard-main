@@ -56,7 +56,7 @@ jobs:
         run: unzip release.zip
 
       - name: 'Deploy to Azure Web App using publish profile'
-        uses: azure/webapps-deploy@v4
+        uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
           app-name: 'test-card'
