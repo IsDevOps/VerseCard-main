@@ -62,5 +62,5 @@ jobs:
         with:
           app-name: 'BusCard'
           slot-name: 'Production'
-          package: relaease.zip
+          package: release.zip
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BBE69A8CE57242A6804B423D76D2F9CC }}
