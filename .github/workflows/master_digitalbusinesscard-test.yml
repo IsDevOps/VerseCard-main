@@ -55,6 +55,12 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+      - name: Add delay before deployment
+        run: sleep 60  # Add a delay of 60 seconds
+
+      - name: List files in deployment package
+        run: ls -al
+
       - name: 'Deploy to Azure Web App using publish profile'
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
